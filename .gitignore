@@ -1,5 +1,5 @@
-client/.node_modules
-
+client/node_modules
+server/node_modules
 client/node_modules/.package-lock.json
 server/util/db.js
 server/package-lock.json
